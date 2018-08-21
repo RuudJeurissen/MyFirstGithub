@@ -16,4 +16,7 @@ And a 2nd commit!!
 Changed on master-branch.
 Edit this locally and do a local commit.
 
-Arr this on Feature 1.
+Add this on Feature 1.
+
+Now add this on the Master.
+And another on eon the Master.
